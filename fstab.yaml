@@ -1,2 +1,4 @@
 mountpoints:
-/: https://drive.google.com/drive/folders/placeholder
+  /:
+    url: https://drive.google.com/drive/folders/placeholder
+    type: google
